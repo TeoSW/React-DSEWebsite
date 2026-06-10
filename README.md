@@ -1,6 +1,6 @@
 # 🎓 DSE ASE Website
 
-Welcome to the official website of the **Department of Economic Informatics and Cybernetics Students Association (DSE ASE)**.
+Welcome to the official website of the **Department of Statistics and Econometrics of the The Bucharest University of Economic Studies (DSE ASE)**.
 
 🌐 **Live Website:** https://dse.ase.ro/  
 📦 **Repository:** https://github.com/dse-ase/Site-DSE
