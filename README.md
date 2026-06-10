@@ -5,6 +5,8 @@ Welcome to the official website of the **Department of Statistics and Econometri
 🌐 **Live Website:** https://dse.ase.ro/  
 📦 **Repository:** https://github.com/dse-ase/Site-DSE
 
+![DSE ASE Website](dse website.JPG)
+
 ---
 
 ## 🚀 About the Project
